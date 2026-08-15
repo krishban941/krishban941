@@ -23,7 +23,6 @@ I enjoy learning new technologies, building projects, and solving programming pr
 ### 👨‍💻 Programming
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c\&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
 
@@ -125,9 +124,11 @@ Check out my repositories for more practice projects and experiments:
   <a href="https://www.linkedin.com/in/krishna-bansal-5a3ba7343/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+  <br>
   <a href="https://github.com/krishban941">
     <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
+  <br>
  <a href="https://leetcode.com/u/krishnabansal1234/">
   <img src="https://img.shields.io/badge/LeetCode-krishnabansal1234-orange?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
