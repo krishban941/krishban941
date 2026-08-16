@@ -10,9 +10,9 @@ I enjoy learning new technologies, building projects, and solving programming pr
 ## 🚀 About Me
 
 * 🎓 B.Tech Computer Science & Engineering Student
-* 📊 Interested in **Data Science & Machine Learning**
+* 📊 Interested in **Data Science & Web Development**
 * 🤖 Exploring **Artificial Intelligence**
-* 💻 Practicing **C++, Python, SQL & Web Development**
+* 💻 Practicing **DSA, Python, SQL & Web Development**
 * 🌱 Currently improving my problem-solving and development skills
 * 🚀 Always learning and building something new
 
